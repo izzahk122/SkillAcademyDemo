@@ -1,2 +1,2 @@
 # SkillAcademyDemo
-AUTHOR-IZZAH
+AUTHOR - <br> IZZAH
